@@ -1,0 +1,14 @@
+/home/userland/JogoRPG/obj/Debug/net9.0/JogoRPG.GeneratedMSBuildEditorConfig.editorconfig
+/home/userland/JogoRPG/obj/Debug/net9.0/JogoRPG.AssemblyInfoInputs.cache
+/home/userland/JogoRPG/obj/Debug/net9.0/JogoRPG.AssemblyInfo.cs
+/home/userland/JogoRPG/obj/Debug/net9.0/JogoRPG.csproj.CoreCompileInputs.cache
+/home/userland/JogoRPG/bin/Debug/net9.0/JogoRPG
+/home/userland/JogoRPG/bin/Debug/net9.0/JogoRPG.deps.json
+/home/userland/JogoRPG/bin/Debug/net9.0/JogoRPG.runtimeconfig.json
+/home/userland/JogoRPG/bin/Debug/net9.0/JogoRPG.dll
+/home/userland/JogoRPG/bin/Debug/net9.0/JogoRPG.pdb
+/home/userland/JogoRPG/obj/Debug/net9.0/JogoRPG.dll
+/home/userland/JogoRPG/obj/Debug/net9.0/refint/JogoRPG.dll
+/home/userland/JogoRPG/obj/Debug/net9.0/JogoRPG.pdb
+/home/userland/JogoRPG/obj/Debug/net9.0/JogoRPG.genruntimeconfig.cache
+/home/userland/JogoRPG/obj/Debug/net9.0/ref/JogoRPG.dll
