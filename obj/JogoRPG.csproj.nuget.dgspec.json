@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/userland/JogoRPG/JogoRPG.csproj": {}
+    "C:\\Users\\lucas\\Documents\\Nova pasta\\JogoRPG\\JogoRPG.csproj": {}
   },
   "projects": {
-    "/home/userland/JogoRPG/JogoRPG.csproj": {
+    "C:\\Users\\lucas\\Documents\\Nova pasta\\JogoRPG\\JogoRPG.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/userland/JogoRPG/JogoRPG.csproj",
+        "projectUniqueName": "C:\\Users\\lucas\\Documents\\Nova pasta\\JogoRPG\\JogoRPG.csproj",
         "projectName": "JogoRPG",
-        "projectPath": "/home/userland/JogoRPG/JogoRPG.csproj",
-        "packagesPath": "/home/userland/.nuget/packages/",
-        "outputPath": "/home/userland/JogoRPG/obj/",
+        "projectPath": "C:\\Users\\lucas\\Documents\\Nova pasta\\JogoRPG\\JogoRPG.csproj",
+        "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lucas\\Documents\\Nova pasta\\JogoRPG\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/userland/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -38,7 +38,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net9.0": {
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/home/userland/.asdf/installs/dotnet/9.0.202/sdk/9.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

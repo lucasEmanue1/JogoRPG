@@ -4,16 +4,16 @@
   {
     public static void Main()
     {
-      var dado = new Random();
-
+      var valoAleatorio = new Random();
+      var dado = valoAleatorio.Next(1, 6);
       
       while (true)
       {
         Console.WriteLine("Qual dado você deseja usar? Opções: Orlog, Fallout e Dado normal");
         var estiloDeJogo = Console.ReadLine();
         if (estiloDeJogo == "Orlog")
-        {
-          switch (dado.Next(1, 6))
+        { 
+          switch (dado)
           {
             case 1:
               Console.WriteLine("Ataque- O Machado");
@@ -35,7 +35,7 @@
         }
         if (estiloDeJogo == "Fallout")
         {       
-          switch (dado.Next(1, 6))
+          switch (dado)
           {
             case 1:
               Console.WriteLine("Um de dano");
@@ -54,7 +54,7 @@
         } 
         if (estiloDeJogo == "Dado normal")
         {
-          Console.WriteLine($"Você tirou:{dado.Next(1, 6)} no dado");
+          Console.WriteLine($"Você tirou:{dado} no dado");
           break;
         }
       }

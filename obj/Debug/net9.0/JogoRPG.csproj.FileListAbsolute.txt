@@ -12,3 +12,18 @@
 /home/userland/JogoRPG/obj/Debug/net9.0/JogoRPG.pdb
 /home/userland/JogoRPG/obj/Debug/net9.0/JogoRPG.genruntimeconfig.cache
 /home/userland/JogoRPG/obj/Debug/net9.0/ref/JogoRPG.dll
+c:\Users\lucas\Documents\Nova pasta\JogoRPG\bin\Debug\net9.0\JogoRPG.exe
+C:\Users\lucas\Documents\Nova pasta\JogoRPG\bin\Debug\net9.0\JogoRPG.deps.json
+C:\Users\lucas\Documents\Nova pasta\JogoRPG\bin\Debug\net9.0\JogoRPG.runtimeconfig.json
+c:\Users\lucas\Documents\Nova pasta\JogoRPG\bin\Debug\net9.0\JogoRPG.dll
+c:\Users\lucas\Documents\Nova pasta\JogoRPG\bin\Debug\net9.0\JogoRPG.pdb
+c:\Users\lucas\Documents\Nova pasta\JogoRPG\obj\Debug\net9.0\JogoRPG.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\lucas\Documents\Nova pasta\JogoRPG\obj\Debug\net9.0\JogoRPG.AssemblyInfoInputs.cache
+c:\Users\lucas\Documents\Nova pasta\JogoRPG\obj\Debug\net9.0\JogoRPG.AssemblyInfo.cs
+c:\Users\lucas\Documents\Nova pasta\JogoRPG\obj\Debug\net9.0\JogoRPG.csproj.CoreCompileInputs.cache
+c:\Users\lucas\Documents\Nova pasta\JogoRPG\obj\Debug\net9.0\JogoRPG.sourcelink.json
+c:\Users\lucas\Documents\Nova pasta\JogoRPG\obj\Debug\net9.0\JogoRPG.dll
+c:\Users\lucas\Documents\Nova pasta\JogoRPG\obj\Debug\net9.0\refint\JogoRPG.dll
+c:\Users\lucas\Documents\Nova pasta\JogoRPG\obj\Debug\net9.0\JogoRPG.pdb
+C:\Users\lucas\Documents\Nova pasta\JogoRPG\obj\Debug\net9.0\JogoRPG.genruntimeconfig.cache
+C:\Users\lucas\Documents\Nova pasta\JogoRPG\obj\Debug\net9.0\ref\JogoRPG.dll
